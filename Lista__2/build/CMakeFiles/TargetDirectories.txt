@@ -1,3 +1,0 @@
-/home/haaghenrique/Documents/repos/CMake_branch/Lista_2/build/CMakeFiles/Atividades_processamento_grafico.dir
-/home/haaghenrique/Documents/repos/CMake_branch/Lista_2/build/CMakeFiles/edit_cache.dir
-/home/haaghenrique/Documents/repos/CMake_branch/Lista_2/build/CMakeFiles/rebuild_cache.dir
